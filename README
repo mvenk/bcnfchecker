@@ -1,2 +1,3 @@
 A program, which given functional dependencies and relations in a
 database, checks if those relations are in BCNF.
+If the relations are not in BCNF, the program will break down the relations into BCNF based on the functional dependancies.
