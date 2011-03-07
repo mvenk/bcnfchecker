@@ -1,0 +1,2 @@
+A program, which given functional dependencies and relations in a
+database, checks if those relations are in BCNF.
